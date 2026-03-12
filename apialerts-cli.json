@@ -6,14 +6,14 @@
             "bin": [
                 "apialerts.exe"
             ],
-            "hash": "b8f759908b1f5a659a7dfd301560dbe3860bfaea4b617d66b124f250c8549333"
+            "hash": "bd9479aabfe8f9abe4ced4b56aa86d0382ce0f1513c429a88ff5239561af9698"
         },
         "arm64": {
             "url": "https://github.com/apialerts/apialerts-cli/releases/download/v0.0.1/apialerts-cli_0.0.1_windows_arm64.zip",
             "bin": [
                 "apialerts.exe"
             ],
-            "hash": "c81c34dd776706272c2391071d9c540b6c76a307e89f35529c5a8e814f15ac4b"
+            "hash": "0cc91af605122e375097205069cd483658f17fd43227bd8a30e826179f0b0f4c"
         }
     },
     "homepage": "https://apialerts.com",
