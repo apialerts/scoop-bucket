@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/apialerts/apialerts-cli/releases/download/v1.0.0/apialerts-cli_1.0.0_windows_amd64.zip",
+            "bin": [
+                "apialerts.exe"
+            ],
+            "hash": "09d263f7c73e5d668f239950c4fafc96731bffd473a13a70c2a39ee999fbe8af"
+        },
+        "arm64": {
+            "url": "https://github.com/apialerts/apialerts-cli/releases/download/v1.0.0/apialerts-cli_1.0.0_windows_arm64.zip",
+            "bin": [
+                "apialerts.exe"
+            ],
+            "hash": "244f7fdea27aec90a56b6c3985c31815080d67597ade787dcf46423c8cdf278e"
+        }
+    },
+    "homepage": "https://apialerts.com",
+    "description": "API Alerts CLI — send events from your terminal"
+}
