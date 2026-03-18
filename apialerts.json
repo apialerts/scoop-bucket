@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apialerts/cli/releases/download/v1.2.0/cli_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/apialerts/cli/releases/download/v1.2.1/cli_1.2.1_windows_amd64.zip",
             "bin": [
                 "apialerts.exe"
             ],
-            "hash": "14dc5a8e254c1640619491830fc60849bdd37cfdcc8ea5ed09e975896800a0e4"
+            "hash": "f83b681b822d16fc4a5641ee93678556aaf6f16f77e20b3818fab59e785766c3"
         },
         "arm64": {
-            "url": "https://github.com/apialerts/cli/releases/download/v1.2.0/cli_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/apialerts/cli/releases/download/v1.2.1/cli_1.2.1_windows_arm64.zip",
             "bin": [
                 "apialerts.exe"
             ],
-            "hash": "c589aa80fb4fd0c3e2f1922b4ceba9bd273c5475d3d2a9ebb69dddcad08b38db"
+            "hash": "058ddd6495c71a4d8ccaeb7cf171799a69f4548b6de3bc118635ea2bbea09e0a"
         }
     },
     "homepage": "https://apialerts.com",
